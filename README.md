@@ -28,7 +28,7 @@
 ![Alt text](./opc4.png "Optional title")
   
 - Obtendo o endereço da máquina: ``` ifconfig ``` ou utilizando o próprio endereço ip sugerido 
-![Alt text](./ip.png "Optional title")
+
 
 - URL para clone: https://cursos.alura.com.br/loginForm
 
