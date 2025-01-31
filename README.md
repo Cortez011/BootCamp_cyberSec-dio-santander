@@ -32,7 +32,7 @@
 
 - URL para clone: https://cursos.alura.com.br/loginForm
 
-![Alt text](./clone.png "Optional title")
+
 
 
 ### Resutados
