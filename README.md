@@ -37,4 +37,6 @@
 
 ### Resutados
 
-- Informando um usuário e senha:
+- Usuário e senha capturados:
+
+![Alt text](./CapturaDeSenha.png "Optional title")
